@@ -246,9 +246,3 @@ Noesis enforces comprehensive testing across both unit and integration levels:
 - **Implemented Vector Similarity Search (RAG)** leveraging Redis **HNSW vector indexing** and 1536-dimensional cosine embeddings, detecting duplicate issues with over 85% accuracy.
 - **Designed a dynamic Prompt Router** selecting optimal LLMs (Claude 3.5 Sonnet vs. Haiku vs. GPT-4) based on token budget and cost constraints, reducing API token expenditures by ~60%.
 - **Constructed comprehensive integration test suites** using **Testcontainers** to validate real Redis vector transactions within CI/CD pipelines.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
