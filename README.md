@@ -1,5 +1,5 @@
 # Noesis 🧠
-### Autonomous Engineering Issue Triage & Cognitive Intelligence Engine
+### Autonomous Engineering Issue & Cognitive Intelligence Engine
 
 [![Java](https://img.shields.io/badge/Java-17%20LTS-orange.svg?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen.svg?logo=springboot)](https://spring.io/projects/spring-boot)
