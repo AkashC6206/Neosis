@@ -234,14 +234,3 @@ Noesis enforces comprehensive testing across both unit and integration levels:
 - **`PromptRouterTest`**: Validates cost/urgency/token routing rules.
 - **`GitHubWebhookControllerTest`**: Validates webhook payload ingestion and HTTP status code contract.
 
----
-
-## 💼 Resume / CV Project Highlight
-
-> **Tip for Interviews & CVs**: Feel free to adapt the following bullet points for your resume under your Projects or Technical Experience section:
-
-- **Engineered Noesis**, an autonomous, event-driven issue triage engine using **Java 17**, **Spring Boot 3.5**, and **Redis Stack**, processing incoming GitHub webhooks in real-time.
-- **Architected a modular Chain of Responsibility pipeline** decoupling classification, semantic deduplication, LLM summarization, and team alerting with sub-second processing latency.
-- **Implemented Vector Similarity Search (RAG)** leveraging Redis **HNSW vector indexing** and 1536-dimensional cosine embeddings, detecting duplicate issues with over 85% accuracy.
-- **Designed a dynamic Prompt Router** selecting optimal LLMs (Claude 3.5 Sonnet vs. Haiku vs. GPT-4) based on token budget and cost constraints, reducing API token expenditures by ~60%.
-- **Constructed comprehensive integration test suites** using **Testcontainers** to validate real Redis vector transactions within CI/CD pipelines.
