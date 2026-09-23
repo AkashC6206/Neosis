@@ -6,7 +6,6 @@
 [![Redis Stack](https://img.shields.io/badge/Redis-RediSearch%20HNSW%20Vector%20Store-red.svg?logo=redis)](https://redis.io/)
 [![Spring Cloud OpenFeign](https://img.shields.io/badge/OpenFeign-Declarative%20REST-blue.svg)](https://spring.io/projects/spring-cloud-openfeign)
 [![Testing](https://img.shields.io/badge/Tested%20with-JUnit%205%20%7C%20Mockito%20%7C%20Testcontainers-purple.svg)](https://www.testcontainers.org/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 ---
 
